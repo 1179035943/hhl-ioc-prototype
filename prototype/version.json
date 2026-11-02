@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-02",
-  "description": "完整九屏原型，包含最新安防与应急物资修订",
-  "bytes": 14129121,
-  "sha256": "27D94BF4E05A07D54FC0BBFB7BCBD6C7CA319409CE49531A35692B9DE7A1E2DF",
+  "version": "2026-11-02-uav-controls",
+  "description": "完整九屏原型；无人机纯模拟起飞/返航及当前任务两条告警；保留应急物资修订",
+  "bytes": 14134741,
+  "sha256": "0B1345C7E63C233F7315D29B4C617BF4DC0DD7ABC032516EEF51B5769D7A60D7",
   "routes": [
     "overview",
     "industry",
@@ -14,5 +14,5 @@
     "equipment",
     "environment"
   ],
-  "data": "本地模拟原型，非生产接口"
+  "data": "本地模拟原型，不发送真实飞行指令"
 }
