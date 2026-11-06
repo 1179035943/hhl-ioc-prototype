@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-06-uav-units-app",
-  "description": "完整九屏；无人机公里三位小数/累计时分秒，保留圆点＋APP及此前已确认业务",
-  "bytes": 14147036,
-  "sha256": "D07CCE623A850D2EAC4F00FB599E7A0841B38010BCFA68FA49DDD2A434CB37AD",
+  "version": "2026-11-06-uav-stats",
+  "description": "完整九屏；补齐默认及实际模拟起飞返航后的里程/时长，保留APP标识及此前业务",
+  "bytes": 14147592,
+  "sha256": "D2EBB5DD3EB66DC5BD87C802096E28A7656021BDF597F5364FD53ECE557C2BB1",
   "routes": [
     "overview",
     "industry",
@@ -14,5 +14,5 @@
     "equipment",
     "environment"
   ],
-  "data": "本地模拟，duration秒单位仅为演示源定义，不发送真实飞行指令"
+  "data": "本地模拟里程样例；模拟时长按起降差回填，非真实接口计算规则"
 }
