@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-06-uav-stats",
-  "description": "完整九屏；补齐默认及实际模拟起飞返航后的里程/时长，保留APP标识及此前业务",
-  "bytes": 14147592,
-  "sha256": "D2EBB5DD3EB66DC5BD87C802096E28A7656021BDF597F5364FD53ECE557C2BB1",
+  "version": "2026-11-06-integration-gate",
+  "description": "九项未接入来源登记，相关弹窗/下钻提示；九屏左右固定展示保持原样",
+  "bytes": 14174945,
+  "sha256": "BA03843A5BD4E62DA3829378A4178FFA3B5B21BB2CDA2EB9CFE2766C099F875D",
   "routes": [
     "overview",
     "industry",
@@ -14,5 +14,5 @@
     "equipment",
     "environment"
   ],
-  "data": "本地模拟里程样例；模拟时长按起降差回填，非真实接口计算规则"
+  "data": "本地模拟原型；未明确厂家/来源的泛对象不猜测归属"
 }
