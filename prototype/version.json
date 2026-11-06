@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-02-uav-controls",
-  "description": "完整九屏原型；无人机纯模拟起飞/返航及当前任务两条告警；保留应急物资修订",
-  "bytes": 14134741,
-  "sha256": "0B1345C7E63C233F7315D29B4C617BF4DC0DD7ABC032516EEF51B5769D7A60D7",
+  "version": "2026-11-06-uav-units-app",
+  "description": "完整九屏；无人机公里三位小数/累计时分秒，保留圆点＋APP及此前已确认业务",
+  "bytes": 14147036,
+  "sha256": "D07CCE623A850D2EAC4F00FB599E7A0841B38010BCFA68FA49DDD2A434CB37AD",
   "routes": [
     "overview",
     "industry",
@@ -14,5 +14,5 @@
     "equipment",
     "environment"
   ],
-  "data": "本地模拟原型，不发送真实飞行指令"
+  "data": "本地模拟，duration秒单位仅为演示源定义，不发送真实飞行指令"
 }
