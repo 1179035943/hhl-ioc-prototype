@@ -1,8 +1,8 @@
 {
   "version": "2026-11-07-release-notes",
-  "description": "Git发布版新增首次更新说明及查看指引；九屏业务内容不变",
-  "bytes": 14176399,
-  "sha256": "3792BD989D460D4743866244449640E91D8BE00F8E0B50AEC5DA41641B61CB5E",
+  "description": "通行中屏停车图；公开更新说明条目及已读标识保持不变",
+  "bytes": 14180776,
+  "sha256": "BF80DB56543F52641A18E57E4921B0F45C842AA353B4276ACAA2AFBB0AC21232",
   "routes": [
     "overview",
     "industry",
@@ -15,8 +15,8 @@
     "environment"
   ],
   "data": "本地模拟原型；未明确厂家/来源的泛对象不猜测归属",
-  "businessVersion": "2026-11-06-integration-gate",
-  "businessSha256": "BA03843A5BD4E62DA3829378A4178FFA3B5B21BB2CDA2EB9CFE2766C099F875D",
+  "businessVersion": "2026-11-07-parking",
+  "businessSha256": "F8C2DCA47A6852BA56DB76A8C9C9215470DA26E5A500A85A8AA94897CE5C8128",
   "notesSha256": "DCEF81D3319FD2E9A335D7F82648AACC8BE2AF61932B853E3E652F05E804BE9A",
   "releaseNotes": "embedded with actual HTML version"
 }
