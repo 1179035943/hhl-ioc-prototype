@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-13-bim-device-review",
-  "description": "综合/BIM、设备、安防、环境/应急原型交互更新；说明按用户确认四条发布",
-  "bytes": 14223189,
-  "sha256": "1A9F21FF8FBBE93E954A90AE0FC0C1C49716847A50771726CA39B42B8782D019",
+  "version": "2026-11-13-bim-device-review-r2",
+  "description": "补充通行更新说明；五条说明按用户原文发布，九屏业务内容不变",
+  "bytes": 14223339,
+  "sha256": "C7FD2CC00A17C6261A356971734ACB2D2260B1E2A3387634BDE0F71A029880C1",
   "routes": [
     "overview",
     "industry",
@@ -17,6 +17,6 @@
   "data": "本地模拟原型；未明确厂家/来源的泛对象不猜测归属",
   "businessVersion": "2026-11-13-bim-device-review",
   "businessSha256": "3FF5C34A3C8EDE8CE3688CDC23594F20E3C44BF4A97A48FAE7B090461FAE8347",
-  "notesSha256": "60DFA72DA4919EC546450C98C0162B27A718C8D76E2B8493D12A2A046BD9D9EF",
+  "notesSha256": "DF2147E08ED07C37279978F62CF8DE8CAC7CB2211EEFC6B801C220B4FDBF6806",
   "releaseNotes": "embedded with actual HTML version"
 }
