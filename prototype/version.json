@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-07-release-notes",
-  "description": "通行恢复地上园区且无停车切换；公开更新说明及已读标识不变",
-  "bytes": 14175435,
-  "sha256": "7D3FF51566339689A14F55F29D4D6D6F7B85088A06D88910B84DDBADE3F06954",
+  "version": "2026-11-13-bim-device-review",
+  "description": "综合/BIM、设备、安防、环境/应急原型交互更新；说明按用户确认四条发布",
+  "bytes": 14223189,
+  "sha256": "1A9F21FF8FBBE93E954A90AE0FC0C1C49716847A50771726CA39B42B8782D019",
   "routes": [
     "overview",
     "industry",
@@ -15,8 +15,8 @@
     "environment"
   ],
   "data": "本地模拟原型；未明确厂家/来源的泛对象不猜测归属",
-  "businessVersion": "2026-11-07-ground",
-  "businessSha256": "E19118B10CB92BEE37A59F959A6EEA37DEFC725131EECA75F99A290C9C48A42E",
-  "notesSha256": "DCEF81D3319FD2E9A335D7F82648AACC8BE2AF61932B853E3E652F05E804BE9A",
+  "businessVersion": "2026-11-13-bim-device-review",
+  "businessSha256": "3FF5C34A3C8EDE8CE3688CDC23594F20E3C44BF4A97A48FAE7B090461FAE8347",
+  "notesSha256": "60DFA72DA4919EC546450C98C0162B27A718C8D76E2B8493D12A2A046BD9D9EF",
   "releaseNotes": "embedded with actual HTML version"
 }
