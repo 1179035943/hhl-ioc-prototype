@@ -1,8 +1,8 @@
 {
-  "version": "2026-11-13-bim-device-review-r2",
-  "description": "补充通行更新说明；五条说明按用户原文发布，九屏业务内容不变",
-  "bytes": 14223339,
-  "sha256": "C7FD2CC00A17C6261A356971734ACB2D2260B1E2A3387634BDE0F71A029880C1",
+  "version": "2026-11-13-unconnected-details",
+  "description": "增加显示未接入设备详情会话开关；修正垂直交通底部底色及滚动；保留五条确认更新说明",
+  "bytes": 14224194,
+  "sha256": "CB809E86D24969B26E28CDFEA427B5D171E504D8020F5E9E7FF5EF3569BA0BE1",
   "routes": [
     "overview",
     "industry",
@@ -15,8 +15,8 @@
     "environment"
   ],
   "data": "本地模拟原型；未明确厂家/来源的泛对象不猜测归属",
-  "businessVersion": "2026-11-13-bim-device-review",
-  "businessSha256": "3FF5C34A3C8EDE8CE3688CDC23594F20E3C44BF4A97A48FAE7B090461FAE8347",
-  "notesSha256": "DF2147E08ED07C37279978F62CF8DE8CAC7CB2211EEFC6B801C220B4FDBF6806",
+  "businessVersion": "2026-11-13-unconnected-details",
+  "businessSha256": "C0956982F32F47D9FA4356489C308FD210D56F1323E2370E41C7E1B3EBFD5AB3",
+  "notesSha256": "16CEE3820363A33D1487A6A32530CBF38BEDE6EAC6B8A587CB6B9D24F4C35E78",
   "releaseNotes": "embedded with actual HTML version"
 }
